@@ -1,0 +1,201 @@
+AccessCategoryID,CategoryName,Description,CreatedDate,LastUpdated,IsActive,ParentCategoryID,DisplayOrder,URLPattern,AccessLevel
+1,Support,Access category for support,2023-09-06,2025-02-07,False,,4,/support,Registered Users
+2,Blog,Access category for blog,2023-02-01,2024-09-02,True,115.0,19,/blog,Guest
+3,Support,Access category for support,2021-11-20,2024-01-08,True,152.0,15,/support,Public
+4,User Profile,Access category for user profile,2023-08-27,2024-07-01,False,149.0,10,/user-profile,Guest
+5,User Profile,Access category for user profile,2022-08-31,2023-01-02,False,14.0,18,/user-profile,Admin
+6,Blog,Access category for blog,2021-12-28,2023-08-12,True,169.0,17,/blog,Admin
+7,Events,Access category for events,2023-03-29,2025-05-27,True,142.0,19,/events,Guest
+8,Support,Access category for support,2024-03-23,2026-03-29,False,136.0,4,/support,Guest
+9,User Profile,Access category for user profile,2023-05-12,2024-04-14,True,93.0,4,/user-profile,Registered Users
+10,FAQs,Access category for faqs,2024-04-30,2026-04-09,True,41.0,14,/faqs,Public
+11,Careers,Access category for careers,2022-07-24,2022-09-18,False,72.0,17,/careers,Public
+12,Events,Access category for events,2023-05-01,2025-03-13,True,192.0,3,/events,Guest
+13,FAQs,Access category for faqs,2022-03-15,2023-03-28,False,4.0,9,/faqs,Public
+14,Events,Access category for events,2022-06-21,2023-11-18,False,76.0,15,/events,Registered Users
+15,Promotions,Access category for promotions,2022-09-28,2025-01-29,False,89.0,17,/promotions,Registered Users
+16,Promotions,Access category for promotions,2021-12-30,2023-12-31,False,81.0,20,/promotions,Guest
+17,Login,Access category for login,2023-01-21,2023-03-01,False,53.0,5,/login,Registered Users
+18,Products,Access category for products,2024-05-17,2024-12-20,True,125.0,18,/products,Public
+19,News,Access category for news,2021-11-19,2023-05-26,False,144.0,6,/news,Admin
+20,Careers,Access category for careers,2023-10-30,2026-05-02,True,178.0,8,/careers,Public
+21,Reviews,Access category for reviews,2022-07-25,2022-11-03,True,17.0,7,/reviews,Admin
+22,Careers,Access category for careers,2021-10-20,2022-06-06,False,26.0,9,/careers,Admin
+23,About Us,Access category for about us,2022-07-29,2023-05-14,True,152.0,17,/about-us,Admin
+24,Events,Access category for events,2024-05-14,2026-07-28,False,86.0,3,/events,Public
+25,User Profile,Access category for user profile,2022-08-21,2022-09-02,True,108.0,17,/user-profile,Guest
+26,Privacy Policy,Access category for privacy policy,2022-12-25,2024-12-29,False,63.0,5,/privacy-policy,Public
+27,News,Access category for news,2022-11-27,2023-10-05,True,81.0,20,/news,Guest
+28,Reviews,Access category for reviews,2022-07-23,2022-12-16,True,89.0,2,/reviews,Guest
+29,Products,Access category for products,2023-06-01,2024-10-29,True,154.0,9,/products,Public
+30,Terms of Service,Access category for terms of service,2022-01-17,2024-07-06,True,36.0,17,/terms-of-service,Public
+31,Support,Access category for support,2024-02-03,2025-01-23,True,46.0,12,/support,Admin
+32,About Us,Access category for about us,2023-02-05,2024-03-28,False,106.0,16,/about-us,Registered Users
+33,Contact Us,Access category for contact us,2024-03-17,2024-06-29,True,119.0,13,/contact-us,Public
+34,Cart,Access category for cart,2022-08-23,2022-11-01,False,60.0,1,/cart,Registered Users
+35,Contact Us,Access category for contact us,2023-04-21,2024-01-26,False,29.0,15,/contact-us,Registered Users
+36,Login,Access category for login,2022-02-08,2023-08-03,False,171.0,17,/login,Public
+37,Products,Access category for products,2022-08-31,2024-12-13,False,124.0,5,/products,Admin
+38,Login,Access category for login,2023-09-11,2023-11-20,False,10.0,11,/login,Guest
+39,Careers,Access category for careers,2022-01-15,2023-08-25,True,112.0,4,/careers,Admin
+40,About Us,Access category for about us,2024-04-06,2026-12-08,True,138.0,14,/about-us,Registered Users
+41,Terms of Service,Access category for terms of service,2022-01-03,2024-07-08,True,130.0,12,/terms-of-service,Admin
+42,Blog,Access category for blog,2023-12-25,2024-03-01,False,142.0,12,/blog,Registered Users
+43,FAQs,Access category for faqs,2022-01-01,2023-06-21,False,60.0,6,/faqs,Registered Users
+44,Terms of Service,Access category for terms of service,2024-02-05,2025-08-27,False,56.0,8,/terms-of-service,Admin
+45,Promotions,Access category for promotions,2022-08-11,2022-08-21,True,112.0,11,/promotions,Public
+46,Contact Us,Access category for contact us,2023-05-12,2025-09-22,False,48.0,3,/contact-us,Guest
+47,User Profile,Access category for user profile,2023-01-30,2024-01-30,True,80.0,13,/user-profile,Public
+48,About Us,Access category for about us,2022-03-23,2024-11-10,True,46.0,20,/about-us,Public
+49,Products,Access category for products,2023-07-28,2024-12-03,False,102.0,8,/products,Public
+50,User Profile,Access category for user profile,2021-12-01,2022-09-18,True,103.0,3,/user-profile,Admin
+51,Help Center,Access category for help center,2023-10-05,2026-01-03,True,96.0,10,/help-center,Public
+52,Checkout,Access category for checkout,2022-06-11,2023-05-19,True,113.0,10,/checkout,Admin
+53,News,Access category for news,2023-08-02,2024-02-17,True,54.0,9,/news,Guest
+54,About Us,Access category for about us,2024-05-24,2025-03-25,True,170.0,20,/about-us,Admin
+55,Home,Access category for home,2022-04-26,2024-04-20,True,187.0,6,/home,Guest
+56,News,Access category for news,2024-03-12,2025-07-27,True,153.0,12,/news,Registered Users
+57,Cart,Access category for cart,2022-01-06,2024-08-11,False,16.0,15,/cart,Guest
+58,Careers,Access category for careers,2021-10-06,2023-03-30,True,95.0,6,/careers,Guest
+59,Cart,Access category for cart,2023-08-26,2025-02-19,True,129.0,6,/cart,Public
+60,Careers,Access category for careers,2022-08-01,2024-12-08,True,179.0,17,/careers,Registered Users
+61,Reviews,Access category for reviews,2022-05-05,2024-04-16,False,89.0,5,/reviews,Guest
+62,Reviews,Access category for reviews,2023-05-20,2025-04-15,False,149.0,13,/reviews,Registered Users
+63,Register,Access category for register,2022-01-18,2022-06-27,False,99.0,6,/register,Admin
+64,Checkout,Access category for checkout,2022-01-27,2023-12-27,True,84.0,6,/checkout,Guest
+65,FAQs,Access category for faqs,2022-01-19,2023-12-11,False,186.0,7,/faqs,Admin
+66,FAQs,Access category for faqs,2021-10-08,2023-06-04,True,171.0,19,/faqs,Admin
+67,Privacy Policy,Access category for privacy policy,2024-05-13,2026-08-15,False,17.0,7,/privacy-policy,Admin
+68,User Profile,Access category for user profile,2023-03-06,2025-08-24,False,129.0,11,/user-profile,Admin
+69,Terms of Service,Access category for terms of service,2022-12-15,2023-10-13,True,1.0,15,/terms-of-service,Public
+70,Login,Access category for login,2022-11-12,2023-10-18,True,96.0,19,/login,Registered Users
+71,Careers,Access category for careers,2022-04-08,2023-05-04,False,188.0,4,/careers,Guest
+72,FAQs,Access category for faqs,2023-04-30,2025-05-25,True,69.0,18,/faqs,Public
+73,Terms of Service,Access category for terms of service,2023-08-28,2025-07-23,True,47.0,5,/terms-of-service,Admin
+74,Contact Us,Access category for contact us,2022-06-06,2023-10-02,False,41.0,5,/contact-us,Guest
+75,Help Center,Access category for help center,2022-07-16,2023-02-25,True,124.0,11,/help-center,Admin
+76,User Profile,Access category for user profile,2021-12-23,2023-06-02,False,171.0,5,/user-profile,Admin
+77,Events,Access category for events,2022-04-22,2025-01-16,False,12.0,10,/events,Admin
+78,Help Center,Access category for help center,2022-01-13,2023-09-10,False,25.0,20,/help-center,Registered Users
+79,Register,Access category for register,2022-06-10,2023-01-15,False,39.0,15,/register,Registered Users
+80,Support,Access category for support,2023-04-25,2023-08-31,False,62.0,4,/support,Public
+81,Contact Us,Access category for contact us,2024-05-07,2024-05-16,False,113.0,5,/contact-us,Admin
+82,Contact Us,Access category for contact us,2023-09-20,2024-10-10,False,35.0,4,/contact-us,Admin
+83,Help Center,Access category for help center,2022-05-29,2022-12-18,True,40.0,6,/help-center,Registered Users
+84,Reviews,Access category for reviews,2024-01-12,2026-07-07,True,1.0,14,/reviews,Guest
+85,Promotions,Access category for promotions,2024-01-30,2026-02-08,True,15.0,8,/promotions,Admin
+86,Terms of Service,Access category for terms of service,2022-01-25,2023-02-22,False,85.0,11,/terms-of-service,Guest
+87,Events,Access category for events,2022-09-05,2022-12-24,True,85.0,4,/events,Registered Users
+88,Blog,Access category for blog,2023-04-29,2025-06-13,True,167.0,14,/blog,Registered Users
+89,FAQs,Access category for faqs,2024-01-08,2024-06-22,True,134.0,3,/faqs,Guest
+90,Products,Access category for products,2022-12-01,2022-12-29,True,191.0,20,/products,Public
+91,Reviews,Access category for reviews,2022-06-27,2025-02-04,False,188.0,5,/reviews,Guest
+92,About Us,Access category for about us,2023-04-18,2024-12-04,False,188.0,14,/about-us,Registered Users
+93,Privacy Policy,Access category for privacy policy,2024-05-05,2026-02-25,False,4.0,11,/privacy-policy,Registered Users
+94,FAQs,Access category for faqs,2023-02-07,2024-07-16,True,193.0,12,/faqs,Public
+95,Terms of Service,Access category for terms of service,2021-10-21,2021-12-07,True,106.0,19,/terms-of-service,Admin
+96,Careers,Access category for careers,2022-09-09,2024-07-03,False,127.0,16,/careers,Admin
+97,Login,Access category for login,2021-11-15,2022-05-31,True,191.0,9,/login,Registered Users
+98,Home,Access category for home,2023-12-05,2026-06-15,False,155.0,20,/home,Public
+99,Promotions,Access category for promotions,2022-06-12,2022-07-23,False,41.0,14,/promotions,Guest
+100,Login,Access category for login,2024-04-16,2025-04-15,False,40.0,6,/login,Public
+101,Products,Access category for products,2023-05-07,2024-08-21,True,43.0,19,/products,Admin
+102,Home,Access category for home,2021-10-06,2024-01-17,True,58.0,12,/home,Registered Users
+103,About Us,Access category for about us,2022-10-16,2024-09-13,True,37.0,5,/about-us,Registered Users
+104,Help Center,Access category for help center,2022-06-09,2025-01-10,False,130.0,11,/help-center,Admin
+105,Events,Access category for events,2024-05-15,2026-09-10,False,74.0,6,/events,Registered Users
+106,Contact Us,Access category for contact us,2024-02-17,2025-12-23,True,103.0,9,/contact-us,Public
+107,Home,Access category for home,2023-10-05,2025-02-21,True,6.0,4,/home,Registered Users
+108,About Us,Access category for about us,2022-07-12,2025-03-14,False,13.0,18,/about-us,Registered Users
+109,Home,Access category for home,2021-12-17,2023-05-12,True,9.0,8,/home,Admin
+110,About Us,Access category for about us,2023-09-04,2024-10-05,True,118.0,8,/about-us,Admin
+111,Terms of Service,Access category for terms of service,2021-09-23,2022-05-25,False,17.0,16,/terms-of-service,Public
+112,FAQs,Access category for faqs,2023-03-11,2024-02-14,True,26.0,7,/faqs,Guest
+113,Blog,Access category for blog,2022-02-18,2024-04-22,False,144.0,12,/blog,Public
+114,Register,Access category for register,2023-11-13,2025-12-26,True,5.0,6,/register,Public
+115,User Profile,Access category for user profile,2022-10-15,2024-05-17,True,184.0,10,/user-profile,Registered Users
+116,Login,Access category for login,2023-06-28,2024-06-14,True,164.0,14,/login,Public
+117,Contact Us,Access category for contact us,2023-12-04,2026-01-25,False,163.0,16,/contact-us,Guest
+118,Help Center,Access category for help center,2022-09-18,2024-08-23,False,1.0,3,/help-center,Registered Users
+119,Blog,Access category for blog,2023-02-22,2023-09-25,True,83.0,2,/blog,Guest
+120,User Profile,Access category for user profile,2022-03-20,2022-03-29,True,75.0,6,/user-profile,Admin
+121,Checkout,Access category for checkout,2023-05-15,2025-11-21,False,74.0,5,/checkout,Registered Users
+122,News,Access category for news,2023-04-18,2024-10-20,False,106.0,11,/news,Registered Users
+123,Events,Access category for events,2023-02-08,2025-03-25,False,180.0,9,/events,Public
+124,About Us,Access category for about us,2023-04-08,2023-08-14,True,75.0,14,/about-us,Public
+125,Careers,Access category for careers,2023-06-07,2024-01-19,False,185.0,10,/careers,Admin
+126,FAQs,Access category for faqs,2022-01-21,2023-01-22,True,89.0,14,/faqs,Admin
+127,Privacy Policy,Access category for privacy policy,2023-02-03,2025-03-15,False,97.0,16,/privacy-policy,Guest
+128,Events,Access category for events,2024-06-10,2026-03-30,True,172.0,5,/events,Public
+129,About Us,Access category for about us,2023-12-11,2026-08-05,False,172.0,1,/about-us,Admin
+130,Help Center,Access category for help center,2024-02-29,2026-07-07,False,181.0,10,/help-center,Guest
+131,Reviews,Access category for reviews,2023-07-30,2025-03-08,False,112.0,7,/reviews,Guest
+132,About Us,Access category for about us,2023-04-15,2024-03-04,True,65.0,5,/about-us,Registered Users
+133,Register,Access category for register,2022-10-10,2025-01-23,True,175.0,19,/register,Registered Users
+134,Login,Access category for login,2022-02-21,2023-10-29,True,25.0,9,/login,Admin
+135,Contact Us,Access category for contact us,2023-12-31,2025-05-26,True,191.0,18,/contact-us,Guest
+136,Products,Access category for products,2022-02-18,2024-02-29,False,91.0,10,/products,Public
+137,News,Access category for news,2022-04-28,2024-08-27,False,117.0,7,/news,Admin
+138,Careers,Access category for careers,2022-11-11,2025-05-06,True,186.0,4,/careers,Public
+139,User Profile,Access category for user profile,2024-03-22,2025-11-25,True,124.0,14,/user-profile,Guest
+140,User Profile,Access category for user profile,2022-04-18,2024-01-14,True,94.0,2,/user-profile,Admin
+141,News,Access category for news,2024-03-30,2026-06-23,True,102.0,1,/news,Guest
+142,User Profile,Access category for user profile,2022-10-25,2023-01-19,False,1.0,10,/user-profile,Public
+143,Support,Access category for support,2023-05-09,2024-07-26,False,188.0,3,/support,Admin
+144,Terms of Service,Access category for terms of service,2022-07-06,2022-07-17,False,153.0,1,/terms-of-service,Admin
+145,Support,Access category for support,2022-10-12,2024-10-14,True,115.0,20,/support,Admin
+146,Terms of Service,Access category for terms of service,2023-09-12,2024-06-03,False,113.0,15,/terms-of-service,Public
+147,Terms of Service,Access category for terms of service,2023-10-07,2025-01-02,False,100.0,10,/terms-of-service,Public
+148,Contact Us,Access category for contact us,2021-11-29,2022-09-24,False,117.0,20,/contact-us,Registered Users
+149,Register,Access category for register,2023-06-03,2025-02-27,True,120.0,12,/register,Public
+150,News,Access category for news,2024-04-04,2026-10-20,True,186.0,13,/news,Guest
+151,Products,Access category for products,2022-03-21,2022-04-19,False,188.0,5,/products,Admin
+152,Promotions,Access category for promotions,2024-05-28,2025-07-23,False,35.0,12,/promotions,Admin
+153,User Profile,Access category for user profile,2023-03-04,2025-01-31,True,112.0,13,/user-profile,Admin
+154,About Us,Access category for about us,2024-05-10,2026-12-28,True,69.0,2,/about-us,Registered Users
+155,Events,Access category for events,2022-06-08,2023-07-04,True,161.0,17,/events,Public
+156,Checkout,Access category for checkout,2024-04-16,2025-02-15,False,182.0,13,/checkout,Guest
+157,Support,Access category for support,2024-01-06,2024-03-28,False,11.0,18,/support,Admin
+158,Contact Us,Access category for contact us,2023-06-30,2024-07-31,True,73.0,2,/contact-us,Public
+159,Register,Access category for register,2023-04-08,2023-07-25,False,41.0,16,/register,Guest
+160,Login,Access category for login,2023-05-26,2025-04-05,True,179.0,20,/login,Admin
+161,Home,Access category for home,2023-03-06,2023-11-10,True,174.0,10,/home,Admin
+162,Register,Access category for register,2023-07-12,2024-10-24,False,131.0,7,/register,Guest
+163,Blog,Access category for blog,2022-06-17,2023-09-19,True,13.0,15,/blog,Public
+164,Login,Access category for login,2022-02-17,2022-10-05,False,126.0,7,/login,Guest
+165,About Us,Access category for about us,2024-02-13,2026-08-24,False,53.0,13,/about-us,Registered Users
+166,Support,Access category for support,2022-12-08,2023-09-17,True,24.0,5,/support,Guest
+167,FAQs,Access category for faqs,2023-01-07,2024-08-09,True,77.0,4,/faqs,Guest
+168,Privacy Policy,Access category for privacy policy,2022-03-22,2024-11-11,True,12.0,15,/privacy-policy,Registered Users
+169,Cart,Access category for cart,2022-12-03,2025-06-27,False,193.0,3,/cart,Admin
+170,Blog,Access category for blog,2023-04-28,2025-12-09,True,171.0,6,/blog,Admin
+171,Blog,Access category for blog,2022-01-25,2023-05-02,False,181.0,6,/blog,Registered Users
+172,Help Center,Access category for help center,2024-03-20,2024-08-05,False,62.0,14,/help-center,Guest
+173,Privacy Policy,Access category for privacy policy,2022-08-31,2024-10-28,False,49.0,13,/privacy-policy,Admin
+174,Register,Access category for register,2021-09-22,2022-02-16,True,146.0,15,/register,Admin
+175,Register,Access category for register,2022-05-03,2024-10-14,False,56.0,16,/register,Guest
+176,Careers,Access category for careers,2022-04-06,2024-11-28,True,125.0,13,/careers,Registered Users
+177,User Profile,Access category for user profile,2024-03-10,2025-07-17,False,7.0,14,/user-profile,Public
+178,Reviews,Access category for reviews,2023-01-09,2024-05-19,True,104.0,5,/reviews,Registered Users
+179,Login,Access category for login,2023-10-18,2026-02-10,True,189.0,9,/login,Admin
+180,Blog,Access category for blog,2023-08-22,2023-08-31,True,17.0,6,/blog,Admin
+181,News,Access category for news,2022-12-12,2023-06-20,True,83.0,9,/news,Admin
+182,Privacy Policy,Access category for privacy policy,2022-01-30,2024-09-18,False,24.0,4,/privacy-policy,Registered Users
+183,Privacy Policy,Access category for privacy policy,2024-05-02,2024-10-10,False,169.0,18,/privacy-policy,Public
+184,Promotions,Access category for promotions,2023-02-21,2024-10-15,False,26.0,15,/promotions,Guest
+185,Help Center,Access category for help center,2022-05-14,2024-08-11,True,146.0,3,/help-center,Public
+186,Login,Access category for login,2022-04-03,2023-12-18,False,148.0,10,/login,Registered Users
+187,User Profile,Access category for user profile,2021-10-02,2021-10-15,True,33.0,18,/user-profile,Guest
+188,Privacy Policy,Access category for privacy policy,2024-04-27,2025-05-31,True,127.0,20,/privacy-policy,Admin
+189,Privacy Policy,Access category for privacy policy,2021-12-23,2023-05-27,True,74.0,5,/privacy-policy,Registered Users
+190,FAQs,Access category for faqs,2022-04-04,2024-08-11,False,87.0,1,/faqs,Registered Users
+191,About Us,Access category for about us,2024-05-10,2024-09-29,True,90.0,18,/about-us,Admin
+192,Support,Access category for support,2023-09-15,2023-10-04,False,90.0,18,/support,Public
+193,Careers,Access category for careers,2023-10-31,2025-11-16,False,29.0,19,/careers,Guest
+194,Help Center,Access category for help center,2023-04-08,2023-08-05,True,98.0,5,/help-center,Guest
+195,Reviews,Access category for reviews,2023-07-18,2024-06-07,True,37.0,11,/reviews,Guest
+196,Reviews,Access category for reviews,2021-11-01,2022-05-25,False,38.0,12,/reviews,Public
+197,Terms of Service,Access category for terms of service,2021-10-22,2024-03-30,False,95.0,5,/terms-of-service,Registered Users
+198,Reviews,Access category for reviews,2023-05-05,2024-03-23,False,109.0,7,/reviews,Registered Users
+199,Events,Access category for events,2022-03-16,2023-05-12,False,34.0,2,/events,Public
+200,Products,Access category for products,2021-10-23,2022-02-05,True,80.0,9,/products,Admin

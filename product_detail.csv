@@ -1,0 +1,51 @@
+ProductID,ProductName,ProductGroupID,Manufacturer,WarrantyPeriod,Price,StockQuantity,ProductDescription,ReleaseDate,Discontinued
+1,Fitness Tracker Model 1,4,Brand E,24,215.21,85,Latest technology,2024-01-21,False
+2,Bluetooth Speaker Model 2,4,Brand B,36,248.27,206,Latest technology,2023-12-21,False
+3,Smart TV Model 3,10,Brand D,18,281.08,336,High quality,2022-07-03,False
+4,Desktop Model 4,9,Brand D,34,1824.69,445,Premium build,2021-09-22,True
+5,Tablet Model 5,2,Brand D,19,1683.98,422,Latest technology,2022-03-11,False
+6,Fitness Tracker Model 6,2,Brand A,9,190.91,208,Latest technology,2021-11-03,False
+7,Wireless Earbuds Model 7,9,Brand B,11,336.46,348,Premium build,2023-07-13,False
+8,Tablet Model 8,9,Brand D,24,937.92,100,Latest technology,2021-11-08,False
+9,Tablet Model 9,9,Brand C,30,511.21,472,High quality,2023-08-09,False
+10,Laptop Model 10,4,Brand C,15,1384.86,146,Latest technology,2023-03-26,True
+11,Tablet Model 11,4,Brand E,33,1615.39,187,Budget friendly,2023-03-09,True
+12,Desktop Model 12,10,Brand B,23,1036.88,78,Latest technology,2023-06-28,True
+13,Wireless Earbuds Model 13,3,Brand E,13,1597.63,109,Premium build,2024-03-01,True
+14,Desktop Model 14,10,Brand D,32,966.21,492,Latest technology,2023-03-06,False
+15,Wireless Earbuds Model 15,7,Brand C,15,1518.63,12,Latest technology,2022-11-05,True
+16,Smart TV Model 16,7,Brand A,18,1697.51,29,Latest technology,2022-05-28,True
+17,Fitness Tracker Model 17,7,Brand D,18,1316.36,343,Latest technology,2023-05-03,True
+18,Smartwatch Model 18,8,Brand C,26,290.67,323,Premium build,2022-07-07,False
+19,Smartphone Model 19,3,Brand D,29,396.9,18,Eco-friendly,2022-09-01,False
+20,Gaming Console Model 20,6,Brand B,28,871.61,175,Budget friendly,2024-05-24,False
+21,Smartwatch Model 21,1,Brand B,7,1832.7,253,Eco-friendly,2024-05-17,False
+22,Tablet Model 22,8,Brand A,30,1151.69,477,Eco-friendly,2024-03-27,False
+23,Gaming Console Model 23,6,Brand B,23,204.9,222,Eco-friendly,2022-02-27,False
+24,Smart TV Model 24,9,Brand D,12,410.4,92,Latest technology,2023-08-21,False
+25,Gaming Console Model 25,9,Brand B,27,1244.3,350,Latest technology,2022-08-21,False
+26,Fitness Tracker Model 26,2,Brand C,6,784.4,332,Premium build,2022-03-03,True
+27,Gaming Console Model 27,3,Brand D,28,738.18,46,Budget friendly,2021-12-06,False
+28,Laptop Model 28,2,Brand B,12,1198.5,218,High quality,2023-01-18,False
+29,Laptop Model 29,9,Brand A,14,193.79,161,High quality,2021-11-27,True
+30,Smartphone Model 30,4,Brand A,27,942.07,478,Latest technology,2024-04-18,True
+31,Smartphone Model 31,10,Brand D,19,1993.31,253,High quality,2023-12-20,True
+32,Laptop Model 32,9,Brand D,22,1394.39,174,Eco-friendly,2022-04-13,True
+33,Smartwatch Model 33,7,Brand A,14,130.21,391,Eco-friendly,2024-05-14,True
+34,Smartwatch Model 34,8,Brand D,9,628.19,418,Premium build,2024-01-08,True
+35,Tablet Model 35,2,Brand B,11,1629.89,310,Eco-friendly,2022-10-19,False
+36,Smart TV Model 36,10,Brand E,15,1105.4,252,High quality,2021-12-30,True
+37,Smartwatch Model 37,5,Brand E,15,1528.16,243,Budget friendly,2022-12-27,False
+38,Desktop Model 38,7,Brand C,17,887.33,419,Latest technology,2023-05-04,True
+39,Laptop Model 39,10,Brand E,16,529.57,195,Premium build,2024-01-10,False
+40,Wireless Earbuds Model 40,8,Brand B,14,1584.37,203,Premium build,2023-10-24,True
+41,Smartwatch Model 41,9,Brand D,15,845.36,52,Budget friendly,2024-05-07,False
+42,Desktop Model 42,6,Brand B,14,305.36,290,Premium build,2023-02-02,True
+43,Desktop Model 43,4,Brand C,16,1615.68,498,Budget friendly,2021-11-09,False
+44,Wireless Earbuds Model 44,1,Brand B,19,1577.25,65,Budget friendly,2023-08-01,False
+45,Gaming Console Model 45,3,Brand D,20,736.4,383,Premium build,2024-05-01,True
+46,Smartwatch Model 46,8,Brand E,21,738.21,184,High quality,2023-07-23,True
+47,Smart TV Model 47,9,Brand A,13,1110.34,138,Premium build,2023-10-01,False
+48,Bluetooth Speaker Model 48,4,Brand D,22,997.09,113,Eco-friendly,2023-11-18,False
+49,Gaming Console Model 49,7,Brand B,23,1854.37,56,Budget friendly,2023-04-25,False
+50,Gaming Console Model 50,5,Brand B,29,1114.12,401,Budget friendly,2023-08-11,False

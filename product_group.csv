@@ -1,0 +1,11 @@
+ProductGroupID,GroupName,Category,Description,ParentGroupID,CreatedDate,LastUpdated,IsActive,DisplayOrder,ImageURL
+1,Electronics Group 1,Sound Systems,Sound Systems related products.,,2022-04-11,2023-01-24,False,8,http://example.com/image5.jpg
+2,Electronics Group 2,Entertainment,Entertainment related products.,5.0,2021-12-18,2024-07-13,True,4,http://example.com/image2.jpg
+3,Audio Group 3,Household Items,Household Items related products.,7.0,2024-02-02,2026-07-17,True,6,http://example.com/image4.jpg
+4,Electronics Group 4,Entertainment,Entertainment related products.,3.0,2023-09-04,2024-10-28,True,8,http://example.com/image1.jpg
+5,Audio Group 5,Gadgets,Gadgets related products.,7.0,2022-08-22,2024-08-28,False,2,http://example.com/image4.jpg
+6,Wearables Group 6,Consumer Electronics,Consumer Electronics related products.,8.0,2024-04-29,2025-06-22,False,6,http://example.com/image2.jpg
+7,Gaming Group 7,Entertainment,Entertainment related products.,10.0,2022-02-06,2024-07-13,True,1,http://example.com/image5.jpg
+8,Audio Group 8,Gadgets,Gadgets related products.,6.0,2024-02-29,2025-01-09,False,9,http://example.com/image4.jpg
+9,Home Appliances Group 9,Entertainment,Entertainment related products.,1.0,2022-03-24,2023-02-02,False,5,http://example.com/image3.jpg
+10,Home Appliances Group 10,Sound Systems,Sound Systems related products.,2.0,2024-02-17,2026-06-27,False,1,http://example.com/image5.jpg
